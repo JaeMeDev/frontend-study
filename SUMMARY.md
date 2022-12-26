@@ -1,6 +1,9 @@
 # Summary
 
 - [Intro](README.md)
-- [TDD](TDD/README.md)
-    - [유닛테스트와 TDD](TDD/유닛테스트와%20TDD/README.md)
-      - [테스트란](TDD/유닛테스트와%20TDD/테스트란%3F.md)
+- [📘 BOOK](book/README.md)
+  - [🍀 코어 자바스크립트](book/core-javascript)
+    - [🌸 Chapter 1: 데이터 타입](book/core-javascript/ch1.md)
+- [📕 TDD](tdd/README.md)
+    - [🍀 유닛테스트와 TDD](tdd/basic-tdd/README.md)
+      - [🌸 테스트란](tdd/basic-tdd/ch1.md)
