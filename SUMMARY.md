@@ -8,6 +8,7 @@
     - [🌸 Chapter 3: this](book/core-javascript/ch3.md)
     - [🌸 Chapter 4: 콜백 함수](book/core-javascript/ch4.md)
     - [🌸 Chapter 5: 클로저](book/core-javascript/ch5.md)
+    - [🌸 Chapter 6: 프로토타입](book/core-javascript/ch6.md)
 - [📕 TDD](tdd/README.md)
     - [🍀 유닛테스트와 TDD](tdd/basic-tdd/README.md)
       - [🌸 테스트란](tdd/basic-tdd/ch1.md)
