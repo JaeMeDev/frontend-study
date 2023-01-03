@@ -10,6 +10,8 @@
     - [🌸 Chapter 5: 클로저](book/core-javascript/ch5.md)
     - [🌸 Chapter 6: 프로토타입](book/core-javascript/ch6.md)
     - [🌸 Chapter 7: 클래스](book/core-javascript/ch7.md)
+  - [🍀 쏙쏙 들어오는 함수형 코딩](book/functional-programming)
+    - [🌸 Chapter 1: 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다](book/functional-programming/ch1.md)
 - [📕 TDD](tdd/README.md)
     - [🍀 유닛테스트와 TDD](tdd/basic-tdd/README.md)
       - [🌸 테스트란](tdd/basic-tdd/ch1.md)
