@@ -12,6 +12,8 @@
     - [🌸 Chapter 7: 클래스](book/core-javascript/ch7.md)
   - [🍀 쏙쏙 들어오는 함수형 코딩](book/functional-programming)
     - [🌸 Chapter 1: 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다](book/functional-programming/ch1.md)
+  - [🍀 이펙티브 타입스크립트](book/effective-typescript)
+    - [🌸 Chapter 1: 타입스크립트 알아보기](book/effective-typescript/ch1.md)
 - [📕 TDD](tdd/README.md)
     - [🍀 유닛테스트와 TDD](tdd/basic-tdd/README.md)
       - [🌸 테스트란](tdd/basic-tdd/ch1.md)
