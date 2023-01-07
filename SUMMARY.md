@@ -14,6 +14,7 @@
     - [🌸 Chapter 1: 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다](book/functional-programming/ch1.md)
     - [🌸 Chapter 2: 현실에서의 함수형 사고](book/functional-programming/ch2.md)
     - [🌸 Chapter 3: 액션과 계산, 데이터의 차이를 알기](book/functional-programming/ch3.md)
+    - [🌸 Chapter 4: 액션에서 계산 빼내기](book/functional-programming/ch4.md)
   - [🍀 이펙티브 타입스크립트](book/effective-typescript)
     - [🌸 Chapter 1: 타입스크립트 알아보기](book/effective-typescript/ch1.md)
 - [📕 TDD](tdd/README.md)
