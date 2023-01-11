@@ -16,6 +16,7 @@
     - [🌸 Chapter 3: 액션과 계산, 데이터의 차이를 알기](book/functional-programming/ch3.md)
     - [🌸 Chapter 4: 액션에서 계산 빼내기](book/functional-programming/ch4.md)
     - [🌸 Chapter 5: 더 좋은 액션 만들기](book/functional-programming/ch5.md)
+    - [🌸 Chapter 6: 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기](book/functional-programming/ch6.md)
   - [🍀 이펙티브 타입스크립트](book/effective-typescript)
     - [🌸 Chapter 1: 타입스크립트 알아보기](book/effective-typescript/ch1.md)
 - [📕 TDD](tdd/README.md)
