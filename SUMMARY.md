@@ -21,6 +21,3 @@
     - [🌸 Chapter 8: 계층형 설계 I](book/functional-programming/ch8.md)
   - [🍀 이펙티브 타입스크립트](book/effective-typescript)
     - [🌸 Chapter 1: 타입스크립트 알아보기](book/effective-typescript/ch1.md)
-- [📕 TDD](tdd/README.md)
-    - [🍀 유닛테스트와 TDD](tdd/basic-tdd/README.md)
-      - [🌸 테스트란](tdd/basic-tdd/ch1.md)
